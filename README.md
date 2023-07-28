@@ -39,25 +39,15 @@ The Online Education Website redefines the educational landscape by providing a 
 
 
 <br><br>
-<!-- ................................................................................................................................. --
-
-
-
-### Demo
-<p align="justify">
-  The Demo of this working project can be found on <br>
-  <a href="></a>
-</p>
-
-
-<br><br>
 <!-- ................................................................................................................................. -->
 
 
 
 
-### Preview
-![GUI for this Project](path)
+
+### Preview of Website
+<br><br>
+![GUI for this Project](Preview.png)
 
 
 <br><br>
